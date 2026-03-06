@@ -1,0 +1,17 @@
+# Security
+.env
+
+# Environment
+venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Data Files (Governance: Never upload raw data)
+*.csv
+temp_pmo_data.csv
+pmo_dataset.csv
+
+# OS Files
+.DS_Store
